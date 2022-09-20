@@ -4,6 +4,8 @@
  * @author (Ruth Bosbach) 
  * @version (1.0 - 2018)
    Test 
+   Tlol    
+
 
  */
 
@@ -28,7 +30,7 @@ public class Fahrzeug
         kennzeichen = pKennzeichen;
         verkehrstauglichkeit = pV;
     }
-    
+    // ich mache falsche sachen//
     public Fahrzeug(){
         modell = randomModell();
         kennzeichen = randomKennzeichen();
@@ -76,12 +78,15 @@ public class Fahrzeug
     public boolean getVerkehrstauglichkeit(){
         return verkehrstauglichkeit;
     }
-	/**
-	Gibt das Kennzeichen des Autos zurück
-	*/
+  /**
+  Gibt das Kennzeichen des Autos zurück
+  */
     
     public String getKennzeichen(){
         return kennzeichen;
     }
+  // ich verstehe das alles nicht, außer das, mit dem Kommentar //
+
+  
    
 }
