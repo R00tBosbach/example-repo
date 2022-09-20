@@ -28,7 +28,7 @@ public class Fahrzeug
         kennzeichen = pKennzeichen;
         verkehrstauglichkeit = pV;
     }
-    
+    // ich mache falsche sachen//
     public Fahrzeug(){
         modell = randomModell();
         kennzeichen = randomKennzeichen();
@@ -76,9 +76,9 @@ public class Fahrzeug
     public boolean getVerkehrstauglichkeit(){
         return verkehrstauglichkeit;
     }
-	/**
-	Gibt das Kennzeichen des Autos zurück
-	*/
+  /**
+  Gibt das Kennzeichen des Autos zurück
+  */
     
     public String getKennzeichen(){
         return kennzeichen;
