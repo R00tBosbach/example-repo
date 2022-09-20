@@ -3,6 +3,10 @@
  * 
  * @author (Ruth Bosbach) 
  * @version (1.0 - 2018)
+   Test 
+   Tlol    
+
+
  */
 
 import java.util.Random; //für zufällige Fahrzeuge
@@ -74,6 +78,9 @@ public class Fahrzeug
     public boolean getVerkehrstauglichkeit(){
         return verkehrstauglichkeit;
     }
+  /**
+  Gibt das Kennzeichen des Autos zurück
+  */
     
     public String getKennzeichen(){
         return kennzeichen;

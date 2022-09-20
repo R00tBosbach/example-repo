@@ -5,3 +5,6 @@ In diesem git repository wollen wir:
 * Dateien verändern bzw. hinzufügen
 * einen eigenen Branch erstellen
 * diesen Branch in den Master mergen (+ Konflikte lösen)
+* Eren ist extrem cool
+* Und Maxim löscht Dokumente, aber ist auch cool
+
