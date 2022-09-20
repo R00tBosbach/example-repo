@@ -3,9 +3,7 @@
  * 
  * @author (Ruth Bosbach) 
  * @version (1.0 - 2018)
-   Test 
-   Tlol    
-
+ test 3 
 
  */
 
