@@ -5,3 +5,4 @@ In diesem git repository wollen wir:
 * Dateien verändern bzw. hinzufügen
 * einen eigenen Branch erstellen
 * diesen Branch in den Master mergen (+ Konflikte lösen)
+* Eren ist der Coolste
