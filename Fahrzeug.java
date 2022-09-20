@@ -4,6 +4,8 @@
  * @author (Ruth Bosbach) 
  * @version (1.0 - 2018)
    Test 
+   Tlol    
+
 
  */
 
@@ -83,5 +85,8 @@ public class Fahrzeug
     public String getKennzeichen(){
         return kennzeichen;
     }
+  // ich verstehe das alles nicht, auﬂer das, mit dem Kommentar //
+
+  
    
 }
