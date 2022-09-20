@@ -30,7 +30,7 @@ public class Fahrzeug
         kennzeichen = pKennzeichen;
         verkehrstauglichkeit = pV;
     }
-    
+    // ich mache falsche sachen//
     public Fahrzeug(){
         modell = randomModell();
         kennzeichen = randomKennzeichen();
