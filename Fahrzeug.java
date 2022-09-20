@@ -74,6 +74,9 @@ public class Fahrzeug
     public boolean getVerkehrstauglichkeit(){
         return verkehrstauglichkeit;
     }
+	/**
+	Gibt das Kennzeichen des Autos zurück
+	*/
     
     public String getKennzeichen(){
         return kennzeichen;
