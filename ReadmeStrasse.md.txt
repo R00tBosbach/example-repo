@@ -1,2 +1,1 @@
-Hier wäre die Strasse
-Hier ist ein Merge Konflikt
+Eren hat den cooleren Mergg Konflikt
