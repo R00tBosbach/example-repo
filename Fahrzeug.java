@@ -78,5 +78,6 @@ public class Fahrzeug
     public String getKennzeichen(){
         return kennzeichen;
     }
+	// ich verstehe das alles nicht, außer das, mit dem Kommentar //
    
 }
