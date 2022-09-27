@@ -6,7 +6,7 @@
  test 3 
 
  */
-
+// Moin
 import java.util.Random; //für zufällige Fahrzeuge
 
 public class Fahrzeug
